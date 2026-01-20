@@ -1,0 +1,5 @@
+user1,password1,customer,Αγγελος,Μανουσελης
+user2,password2,customer,Κωνσταντινα,Μποχτη
+admin1,password1,admin,Admin,Adminopoulos
+admin2,password2,admin,Admin,Adminakis
+Kwnna,123456789,customer,Κωνσταντίνα,Μπόχτη
